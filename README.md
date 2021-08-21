@@ -1,3 +1,5 @@
+Result : https://harsha0571.github.io/steg-compression/
+
 # Steg-compression
 
 Images are encrypted into one another using steganography 
